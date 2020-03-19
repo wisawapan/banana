@@ -1,1 +1,2 @@
-print("print")
+print("main menu")
+print("add")
